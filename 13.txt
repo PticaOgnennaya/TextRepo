@@ -1,0 +1,14 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                   No response from host -  100 | 1131 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 | 1131 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 | 1130 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 | 1130 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 | 1130 |    0 |    0 |    0 |    0 |    0 |
+|                             a64.fvds.ru -   22 | 1130 |  892 |   26 |   27 |   50 |   28 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR - 0.8. Copyleft @2000-2002 Vasile Laurentiu Stanimir  ( stanimir@cr.nivis.com )
+   WinMTR - 0.8. Copyleft @2000-2002 Vasile Laurentiu Stanimir  ( stanimir@cr.nivis.com )
+   WinMTR - 0.8. Copyleft @2000-2002 Vasile Laurentiu Stanimir  ( stanimir@cr.nivis.com )
